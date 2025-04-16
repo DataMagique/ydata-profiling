@@ -17,3 +17,5 @@ if __name__ == "__main__":
         df, title="Amazon Musical Instrument Review | Profile Report"
     )
     profile.to_file(Path("./review_report.html"))
+
+
